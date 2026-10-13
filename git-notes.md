@@ -7,3 +7,7 @@
 3. GIT STATUS - Lets you see the modifications done in the working tree 
 
 4. GIT ADD - Lets you stage the modified files into the commit
+
+5. GIT COMMIT - Lets you stage the changes with a simple and explanatory message with all the modifications.
+
+6. GIT LOG - Lets you see the commit histroy of the repo.
