@@ -15,3 +15,7 @@
 7. GIT DIFF - Lets you see the diffrences b/w changes in the repo.
 
 8. GIT PUSH - Lets you upload your all the local changes to the remote repository.
+
+9. GIT PULL - Lets you pull in all the remote changes along with updating the branch.(preferred to only do when you need to update with remote changes)
+
+10. GIT FETCH - lets you get all the remote changes without affecting the branch you're wkring in.
