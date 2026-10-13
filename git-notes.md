@@ -11,3 +11,7 @@
 5. GIT COMMIT - Lets you stage the changes with a simple and explanatory message with all the modifications.
 
 6. GIT LOG - Lets you see the commit histroy of the repo.
+
+7. GIT DIFF - Lets you see the diffrences b/w changes in the repo.
+
+8. GIT PUSH - Lets you upload your all the local changes to the remote repository.
